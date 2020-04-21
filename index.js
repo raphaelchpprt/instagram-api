@@ -10,7 +10,7 @@ const showInstagramPost = (
 ) => {
   selector.innerHTML += `
     <div class="row justify-content-center">
-      <div class="col-6">
+      <div class="col-sm-5 col-lg-6 m-4">
         <div class="card mt-5">
             <img class="card-img-top" src='${iamgeSRC}' alt='' />
             <h5 class="card-title pt-4 pl-4 pb-0 mb-0 font-weight-bold">${accountName}</h5>
