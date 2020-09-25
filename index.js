@@ -1,4 +1,4 @@
-const URL = "https://www.instagram.com/traastagram/" + "?__a=1";
+const URL = "https://www.instagram.com/tr44st/" + "?__a=1";
 const selector = document.getElementById("insta");
 const account = document.getElementById("account");
 
